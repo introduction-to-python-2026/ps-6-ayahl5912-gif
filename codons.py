@@ -1,4 +1,4 @@
-def create_codon_dict(file_path):
+
  def create_codon_dict(file_path):
     codon2aa = {}
     # Use the provided file_path argument instead of hardcoding
